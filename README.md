@@ -1,3 +1,5 @@
+![kanpurschoolofai](https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/39741035_1700058883437687_1021614256900014080_n.png?_nc_cat=106&oh=0c193194caf801b04d9ddaf05192ead7&oe=5C58BEBE)
+
 ## Welcome to Kanpur School of AI
 
 Kanpur School of AI is the part of School of AI mission started by [Siraj Raval](http://www.sirajraval.com/).
