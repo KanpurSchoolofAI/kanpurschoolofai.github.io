@@ -22,8 +22,8 @@ To learn more about the school of ai you can visit http://bit.ly/SchoolOfAI
 
   * Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.
 
-### Support or Contact
+### Contact Us
 
 Follow Us at [Meetup](https://www.meetup.com/Kanpur-School-of-AI/) | [Facebook](https://www.facebook.com/pg/KanpurSchoolAI/) | [Twitter](https://www.twitter.com/AiKanpur)
 
-write a mail at [kanpurschoolai@gmail.com](kanpurschoolai@gmail.com)
+Write a mail at [kanpurschoolai@gmail.com](kanpurschoolai@gmail.com)
