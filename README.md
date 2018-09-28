@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Kanpur School of AI
 
-You can use the [editor on GitHub](https://github.com/KanpurSchoolofAI/kanpurschoolofai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Kanpur School of AI is the part of School of AI mission started by [Siraj Raval](http://www.sirajraval.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mission
 
-### Markdown
+The School of AI’s mission is to offer a world-class AI education to anyone on Earth for free. Our doors are open to all those who wish to learn. We are a learning community that spans almost every country dedicated to teaching our students how to make a positive impact in the world using AI technology, whether that's through employment or entrepreneurship.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We host meetups every 15-20 days. To stay up to date on when and where we will host our next meetup please sign up for our group. 
 
-```markdown
-Syntax highlighted code block
+To learn more about the school of ai you can visit http://bit.ly/SchoolOfAI
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Code of Conduct
 
-1. Numbered
-2. List
+  * Meetups are for the benefit of the community as a whole, not specific businesses or individuals. All actions taken as an event organizer are with the best interest of the community in mind.
 
-**Bold** and _Italic_ and `Code` text
+  * Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria.
 
-[Link](url) and ![Image](src)
-```
+  * Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and shouldn’t be used to pay speakers or organizers.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  * Meetup groups allow events to be organized by any reliable/trusted member of the community.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KanpurSchoolofAI/kanpurschoolofai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  * Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Follow Us at 
+
+[Meetup](https://www.meetup.com/Kanpur-School-of-AI/)   |    [Facebook](https://www.facebook.com/pg/KanpurSchoolAI/)    |    [Twitter](https://www.twitter.com/kanpurschoolai)
+
+write a mail at [kanpurschoolai@gmail.com](kanpurschoolai@gmail.com)
